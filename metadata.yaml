@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/861
     wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
 description: 'Translation of: De unges Forbund'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23774#La-Asocio-de-la-Junuloj--Dramo-en-kvin-aktoj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2007-12-08'
 gutenberg_type: Text
