@@ -1,0 +1,33 @@
+_repo: La-Asocio-de-la-Junuloj--Dramo-en-kvin-aktoj_23774
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Tangerud, Odd
+    gutenberg_agent_id: '8417'
+    url: http://www.gutenberg.org/2009/agents/8417
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: 'Translation of: De unges Forbund'
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2007-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23774'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PT'
+title: 'La Asocio de la Junuloj: Dramo en kvin aktoj'
+url: http://www.gutenberg.org/ebooks/23774
